@@ -24,7 +24,7 @@ SESSION_EXPIRE_AT_BROWSER_CLOSE = True
 SESSION_COOKIE_AGE = 60 * 60 # 60 minutes
 
 # put all your hosts here
-ALLOWED_HOSTS = ['127.0.0.1','192.168.52.128']
+ALLOWED_HOSTS = ['127.0.0.1','192.168.52.128','10.88.36.3']
 
 # Application definition
 INSTALLED_APPS = [
